@@ -11,5 +11,4 @@ This folder contains SQL solutions for LeetCode Database problems.
 - Window Functions
 
 ### 🛠️ SQL Dialects
-- MySQL
-- PostgreSQL (where applicable)
+- Oracle
